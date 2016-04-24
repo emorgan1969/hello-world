@@ -1,2 +1,2 @@
 # hello-world
-HelloWorld
+Committing a change to my new repository. Great tutorial by the way :)
